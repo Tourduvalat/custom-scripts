@@ -46,6 +46,7 @@ Dedicated to supplying data for [Copernicus services](http://www.esa.int/Our_Act
  - [Wildfire visualization](sentinel-2/markuse_fire) (by Pierre Markuse, taken from his [blog post](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
 
 #### Remote sensing indices
+ - [WIW](sentinel-2/WIW) - Detection of the Presence of Water in Wetlands
  - [False color infrared](sentinel-2/false_color_infrared)
  - [NDVI](sentinel-2/ndvi) - normalized difference vegetation index
  - [NDVI uncertainty](sentinel-2/ndvi_uncertainty) - visualization of uncertainty of NDVI due to uncertainty in band values
