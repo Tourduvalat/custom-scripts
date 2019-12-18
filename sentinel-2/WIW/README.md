@@ -24,7 +24,7 @@ The WIW script generates water maps using the Water In Wetlands logical rule by 
 
 ## Description of representative images
 Charnier-Scamandre marshes, South of France  10/15/2018.
-![WIW-chasca](cha-sca.png)
+![WIW-chasca](Timelapse ChaSca 12 images.gif)
 ## References
  Lefebvre G., Davranche A., Willm L., Campagna J., Redmond L., Merle C., Guelmami A., Poulin B. 2019. Introducing WIW for Detecting the Presence of Water in Wetlands with Landsat and Sentinel Satellites. Remote Sensing 11(19):18. [DOI : https://doi.org/10.3390/rs11192210](https://www.mdpi.com/2072-4292/11/19/2210/)
 
