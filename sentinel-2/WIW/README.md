@@ -24,6 +24,7 @@ The WIW script generates water maps using the Water In Wetlands logical rule by 
 
 ## Description of representative images
 WIW timelapses at the largest reed marsh in southern France from October 2018 through September 2019 (monthly interval).
+
 ![WIW-chasca](Timelapse-ChaSca-12-images.gif)
 ## References
  Lefebvre G., Davranche A., Willm L., Campagna J., Redmond L., Merle C., Guelmami A., Poulin B. 2019. Introducing WIW for Detecting the Presence of Water in Wetlands with Landsat and Sentinel Satellites. Remote Sensing 11(19):18. [DOI : https://doi.org/10.3390/rs11192210](https://www.mdpi.com/2072-4292/11/19/2210/)
