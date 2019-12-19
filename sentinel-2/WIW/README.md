@@ -3,10 +3,11 @@
 
 
 ---
-
-<a href="#" id='togglescript'>Show</a> script or [download](wiw_S2_script.js)
+<a href="#" id='togglescript'>Show</a> script or [download](wiw_S2_script.js) it.
 <div id='script_view' style="display:none">
-
+{% highlight javascript %}
+      {% include_relative wiw_S2_script.js %}
+{% endhighlight %}
 </div>
 
 ## Evaluate and visualize
