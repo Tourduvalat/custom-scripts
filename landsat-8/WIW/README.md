@@ -23,7 +23,7 @@
 The WIW script generates water maps using the Water In Wetlands logical rule by featuring water in blue and other landscape features in natural colors.  The maps include open-water areas, as well as water under dense vegetation cover. Use of the WIW script in combination of the timelape tool provides a dynamic representation of inundation patterns, which are useful for assessing wetland extent and functions. 
 
 ## Description of representative images
-WIW timelapse at the largest reed marsh in southern France from October 2018 through September 2019 (monthly interval).
+WIW timelapse at the largest reed marsh in southern France from June 2013 through May 2014 (monthly interval).
 
 ![WIW-chasca](Timelapse-ChaSca-L8.gif)
 ## References
