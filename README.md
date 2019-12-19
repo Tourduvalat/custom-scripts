@@ -46,7 +46,7 @@ Dedicated to supplying data for [Copernicus services](http://www.esa.int/Our_Act
  - [Wildfire visualization](sentinel-2/markuse_fire) (by Pierre Markuse, taken from his [blog post](https://pierre-markuse.net/2017/08/07/visualizing-wildfires-sentinel-2-imagery-eo-browser/){:target="_blank"})
 
 #### Remote sensing indices
- - [WIW](sentinel-2/WIW) - Detection of the Presence of Water in Wetlands
+ - [WIW](sentinel-2/WIW) - detection of the presence of Water in Wetlands
  - [False color infrared](sentinel-2/false_color_infrared)
  - [NDVI](sentinel-2/ndvi) - normalized difference vegetation index
  - [NDVI uncertainty](sentinel-2/ndvi_uncertainty) - visualization of uncertainty of NDVI due to uncertainty in band values
@@ -141,7 +141,7 @@ Sentinel-5P provides atmospheric measurements, relating to air quality, climate 
 The Landsat program is the longest running enterprise for acquisition of satellite imagery of Earth, running from 1972. The most recent, [Landsat 8](http://landsat.usgs.gov/landsat8.php){:target="_blank"}, was launched on February 11, 2013. Landsat-8 data has 11 spectral bands with spatial resolutions ranging from 15 to 60 meters. The names of the Landsat-8 bands at your disposal are *B01*, *B02*, *B03*, *B04*, *B05*, *B06*, *B07*, *B08*, *B09*, *B10* and *B11*.
 
 #### Remote sensing indices
-  - [WIW](landsat-8/WIW) - Detection of the Presence of Water in Wetlands
+  - [WIW](landsat-8/WIW) - detection of the presence of Water in Wetlands
   - [collection](landsat-8/indexdb) of remote sensing indices from an extensive [Index database (IDB)](http://www.indexdatabase.de/){:target="_blank"}
   - [Build-up index](landsat-8/built_up_index)
 
