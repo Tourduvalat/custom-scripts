@@ -1,3 +1,4 @@
+//
 // Detecting the Presence of Water in Wetlands with Landsat-8 Satellite (abbrv. WIW)
 //
 // General formula: IF B05<0.1735 AND B07<0.1035 THEN Water ELSE NoWater
