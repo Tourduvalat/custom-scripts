@@ -1,4 +1,4 @@
-// Detecting the Presence of Water in Wetlands with Landsat-5 Satellite (abbrv. WIW)
+// Detecting the Presence of Water in Wetlands with Landsat-5 & 7 Satellites (abbrv. WIW)
 //
 // General formula: IF B04<0.1558 AND B07<0.0871 THEN Water ELSE NoWater
 //
