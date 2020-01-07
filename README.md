@@ -9,6 +9,8 @@ Scripts are organised by sensors supported on Sentinel Hub:
   - [Sentinel-2](#sentinel-2)
   - [Sentinel-3](#sentinel-3)
   - [Sentinel-5P](#sentinel-5P)
+  - [Landsat-5](#landsat-5)
+  - [Landsat-7](#landsat-7)
   - [Landsat-8](#landsat-8)
   - [MODIS](#modis)
 
@@ -135,6 +137,20 @@ Sentinel-5P provides atmospheric measurements, relating to air quality, climate 
 
 #### Available scripts
  - [Nitrogen Dioxide tropospheric column](sentinel-5p/nitrogen_dioxide_tropospheric_column)
+
+
+## <a name="landsat-5"></a>Landsat-5
+The Landsat program is the longest running enterprise for acquisition of satellite imagery of Earth, running from 1972. The most recent, [Landsat 5](https://www.usgs.gov/land-resources/nli/landsat/landsat-5.php){:target="_blank"}, was launched from Vandenberg Air Force Base in California on March 1, 1984, and like Landsat 4, carried the Multispectral Scanner (MSS) and the Thematic Mapper (TM) instruments. Landsat 5 delivered Earth imaging data nearly 29 years - and set a Guinness World Record For 'Longest Operating Earth Observation Satellite', before being decommissioned on June 5, 2013.
+
+#### Remote sensing indices
+  - [WIW](landsat-5/WIW) - detection of the presence of Water in Wetlands
+
+
+## <a name="landsat-7"></a>Landsat-7
+The Landsat program is the longest running enterprise for acquisition of satellite imagery of Earth, running from 1972. The most recent, [Landsat 5](https://www.usgs.gov/land-resources/nli/landsat/landsat-7.php){:target="_blank"}, Landsat 7 was launched from Vandenberg Air Force Base in California on April 15, 1999 on a Delta II rocket. The satellite carries the Enhanced Thematic Mapper (ETM+) sensor. Since June 2003, the sensor has acquired and delivered data with data gaps caused by the Scan Line Corrector (SLC) failure. In late 2020, the Landsat 9 satellite will replace the Landsat 7 in orbit..
+
+#### Remote sensing indices
+  - [WIW](landsat-7/WIW) - detection of the presence of Water in Wetlands
 
 
 ## <a name="landsat-8"></a>Landsat-8
