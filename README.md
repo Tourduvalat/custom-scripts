@@ -147,7 +147,7 @@ The Landsat program is the longest running enterprise for acquisition of satelli
 
 
 ## <a name="landsat-7"></a>Landsat-7
-The Landsat program is the longest running enterprise for acquisition of satellite imagery of Earth, running from 1972. The most recent, [Landsat 7](https://www.usgs.gov/land-resources/nli/landsat/landsat-7.php){:target="_blank"}, Landsat 7 was launched from Vandenberg Air Force Base in California on April 15, 1999 on a Delta II rocket. The satellite carries the Enhanced Thematic Mapper (ETM+) sensor. Since June 2003, the sensor has acquired and delivered data with data gaps caused by the Scan Line Corrector (SLC) failure. In late 2020, the Landsat 9 satellite will replace the Landsat 7 in orbit..
+The Landsat program is the longest running enterprise for acquisition of satellite imagery of Earth, running from 1972. The most recent, [Landsat 7](https://www.usgs.gov/land-resources/nli/landsat/landsat-7){:target="_blank"}, Landsat 7 was launched from Vandenberg Air Force Base in California on April 15, 1999 on a Delta II rocket. The satellite carries the Enhanced Thematic Mapper (ETM+) sensor. Since June 2003, the sensor has acquired and delivered data with data gaps caused by the Scan Line Corrector (SLC) failure. In late 2020, the Landsat 9 satellite will replace the Landsat 7 in orbit..
 
 #### Remote sensing indices
   - [WIW](landsat-7/WIW) - detection of the presence of Water in Wetlands
